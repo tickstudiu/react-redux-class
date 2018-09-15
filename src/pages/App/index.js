@@ -13,7 +13,7 @@ class App extends Component {
 
         return (
             <ContainerMiddlePage>
-                <MsgBox ProfileImg="https://www.mypum.com/wp-content/uploads/2017/01/IMG_7521-min.jpg" ProfileAlt="profile image">
+                <MsgBox ProfileImg="https://scontent.fbkk15-1.fna.fbcdn.net/v/t1.0-9/29511536_1762161747178929_6797966305692918382_n.jpg?_nc_cat=0&oh=648a60a957e62b1ffb4d2262b3774aad&oe=5C2B9108" ProfileAlt="profile image">
                     <h1 className="display-4">{staticText.helloW}</h1>
                 </MsgBox>
             </ContainerMiddlePage>
