@@ -48,7 +48,6 @@ export const Public = ComposedComponent => {
                 <Fragment>
                     <NavbarLang handleChagneLang={handleChagneLang} lang={lang}/>
                     <ComposedComponent {...this.props} />
-                    <FooterTextOnly footerText="Copyright By tickstudiu"/>
                     <ToastContainer/>
                 </Fragment>
             );
