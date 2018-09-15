@@ -7,7 +7,7 @@ import {ToastContainer} from 'react-toastify';
 import * as tools from "../utils";
 import * as actions from "../redux/actions";
 
-import {FooterTextOnly, Loader, NavbarLang} from "../components";
+import { Loader, NavbarLang} from "../components";
 import {AppText} from "../pages/App/app.text";
 
 export const Public = ComposedComponent => {

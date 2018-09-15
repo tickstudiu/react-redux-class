@@ -1,8 +1,8 @@
 export const CalText = {
     th: {
-        test: 'หวัดดีชาวโลก',
+        title: 'เครื่องคิดเลข',
     },
     en: {
-        test: 'Hello world',
+        title: 'Calculator',
     }
 };
